@@ -14,5 +14,5 @@ Welcome to my portfolio! This repository showcases my journey as a front-end dev
 This portfolio leverages the following technologies:  
 
 - **Frontend**: React, JavaScript (ES6+) , HTML5, CSS3, TailwindCSS, MUI  
-- **Tools**:  React Helmet , Emailjs , Aos
+- **Tools**:   React hooks , React Helmet , Emailjs , Aos
 - **Others**: SEO optimization, performance enhancements  
