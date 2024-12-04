@@ -16,3 +16,16 @@ This portfolio leverages the following technologies:
 - **Frontend**: React, JavaScript (ES6+) , HTML5, CSS3, TailwindCSS, MUI  
 - **Tools**:   React hooks , React Helmet , Emailjs , Aos
 - **Others**: SEO optimization, performance enhancements  
+
+## 🛠️ Setup  
+
+Follow these steps to run the portfolio locally:  
+
+1. Clone the repository:
+   `git clone https://github.com/RANIAjjj/My-Portfolio.git`  
+3. Navigate to the project directory:
+   `cd portfolio`  
+5. Install dependencies:
+   `npm install`  
+7. Start the development server:
+   `npm run dev`  
